@@ -11,6 +11,7 @@ namespace Locadora.WebAPI.Tests
         public void CadastraClientes()
         {
             Dictionary<string, string> dictClientes = new Dictionary<string, string>();
+
             dictClientes.Add("21469739003", "Osvaldo");
             dictClientes.Add("22093309041", "Joao");
             dictClientes.Add("96522727013", "Marcelo");
